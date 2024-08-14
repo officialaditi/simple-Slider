@@ -17,7 +17,7 @@ const Project1 = () => {
   };
 
   const previousButtonHandler = () => {
-    if (index > 0) {
+    if (index > 0  ) {
       setIndex(index - 1);
     }
   };
